@@ -71,7 +71,7 @@
     FabricSwitch                         = "vSwitch-Fabric"
     FabricNIC                            = "FABRIC"
     ClusterVSwitchName                   = "hciSwitch"
-    ClusterName                          = "AzLocal-West2"
+    ClusterName                          = "AzLocal-East1"
     WACVMName                            = "AdminCenter"
     ClusterSharedVolumePath              = "C:\ClusterStorage\S2D_vDISK1"
     LCMDeployUsername                    = "LocalBoxDeployUser"
